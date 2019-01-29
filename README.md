@@ -1,10 +1,12 @@
 # front-end-knowledge-architecture
- 
+
 ## 介绍
+
 As long as you work hard, I can buy a better car next year.
 
 ## 目录
-- 调用堆栈
+
+- 从`call stack`到 `event loop`
 - 作用域闭包
 - this 全面解析
 - 深浅拷贝原理
