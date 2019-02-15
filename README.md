@@ -6,7 +6,7 @@ As long as you work hard, I can buy a better car next year.
 
 ## 目录
 
-1. javascript函数运行机制，从`callStack`到`eventLoop`
+1. [javascript函数运行机制，从`callStack`到`eventLoop`](https://github.com/re-learning-front-end/33-frontEnd-concepts/issues/1)
 
 ## TODU
 - 作用域闭包
