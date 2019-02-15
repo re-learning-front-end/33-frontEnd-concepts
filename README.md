@@ -1,8 +1,11 @@
-# 33-frontEnd-concepts
+<h1 align="center">
+  <br>
+    <a href="https://github.com/stephentian/33-js-concepts">前端开发者应该了解的33个概念</a>
+  <br>
+</h1>
 
 ## 介绍
-
-As long as you work hard, I can buy a better car next year.
+这个项目是一个文章系列，希望帮助大家构建起前端知识框架体系
 
 ## 目录
 
@@ -13,13 +16,11 @@ As long as you work hard, I can buy a better car next year.
 - this 全面解析
 - 深浅拷贝原理
 - 原型 Prototype
-- 数组标准使用方法
-- 事件机制
 - Promise
 - Async/Await
 - 防抖/节流
 - 模块化详解
-- webpack
+- 前端工程化
 - webpack
 - ES6 重难点
 - 计算机网络概述
