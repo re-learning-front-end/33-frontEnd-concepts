@@ -11,7 +11,7 @@
 
 1. :book: [javascript函数运行机制，从`callStack`到`eventLoop`](https://github.com/re-learning-front-end/33-frontEnd-concepts/issues/1)
 
-## TODU
+## 计划列表
 - 作用域闭包
 - this 全面解析
 - 深浅拷贝原理
